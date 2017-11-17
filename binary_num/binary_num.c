@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char num;
+	int num;
 	int i,j=0;
 	char nam[120]={0,};
 	printf("2진수로 변환할 숫자 입력 : ");
